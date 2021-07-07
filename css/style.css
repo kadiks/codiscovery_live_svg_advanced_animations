@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.svg-container {
+  position: relative;
+  width: 200px;
+}
